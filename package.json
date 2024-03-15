@@ -1,6 +1,6 @@
 {
   "name": "zero-zk-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/HogenYuan/zero-zk-queue",
