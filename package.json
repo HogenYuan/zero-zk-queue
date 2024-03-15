@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/3lang3/tea-example.git",
+  "repository": "https://github.com/HogenYuan/zero-zk-queue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
